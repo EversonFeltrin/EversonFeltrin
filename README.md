@@ -6,7 +6,6 @@
 - 👨‍💻 Full Stack JavaScript Developer | Bachelor of Information Systems at Universidade Federal de Santa Maria (UFSM) in Brazil
 - 🗺 I'm from Santa Maria, Rio Grande do Sul - Brazil 🇧🇷
 - 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, NodeJS, GraphQL, MySQL, ExpressJS.
-- 🔭 I’m currently working on @Easyauth Sistemas
 - 🌱 I’m currently learning computer forensics and digital expertise
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipecarpes)](https://https://github.com/EversonFeltrin)
