@@ -3,13 +3,14 @@
 
 ### About me 
 
-- 👨‍💻 Full Stack JavaScript Developer | Bachelor of Information Systems at Universidade Federal de Santa Maria (UFSM) in Brazil
+- 👨‍💻 Full Stack JavaScript And PHP Developer | Bachelor of Information Systems at Universidade Federal de Santa Maria (UFSM) in Brazil
 - 🗺 I'm from Santa Maria, Rio Grande do Sul - Brazil 🇧🇷
-- 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, NodeJS, GraphQL, MySQL, ExpressJS.
+- 🧙‍♂ 💻 I currently have knowledge and master in ReactJS, VueJS, NodeJS, GraphQL, MySQL, ExpressJS, PHP.
+- 🔭 I’m currently working on @ped-imply
 - 🌱 I’m currently learning computer forensics and digital expertise
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipecarpes)](https://https://github.com/EversonFeltrin)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-carpes-b3aa9b186/)](https://www.linkedin.com/in/eversonfeltrin/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eversonfeltrin)](https://https://github.com/EversonFeltrin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eversonfeltrin/)](https://www.linkedin.com/in/eversonfeltrin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carpesz94@gmail.com)](mailto:efeltrin@inf.ufsm.br)
 
  - Thanks for visiting. 
