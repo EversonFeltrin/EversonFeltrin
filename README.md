@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on @ped-imply
 - 🌱 I’m currently learning computer forensics and digital expertise
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eversonfeltrin)](https://https://github.com/EversonFeltrin)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eversonfeltrin)](https://github.com/eversonfeltrin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eversonfeltrin/)](https://www.linkedin.com/in/eversonfeltrin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carpesz94@gmail.com)](mailto:efeltrin@inf.ufsm.br)
 
