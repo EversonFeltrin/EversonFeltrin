@@ -12,7 +12,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eversonfeltrin)](https://github.com/eversonfeltrin)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eversonfeltrin/)](https://www.linkedin.com/in/eversonfeltrin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eversonfeltrin@gmail.com)](mailto: eversonfeltrin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eversonfeltrin@gmail.com)](mailto:eversonfeltrin@gmail.com)
 
 - Thanks for visiting. 
 
